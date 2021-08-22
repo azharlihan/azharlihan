@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Azhar Lihan</h1>
 <h3 align="center">An enthusiast website developer from Sukabumi</h3>
 
-- 👨‍💻 All of my projects are available at [www.azharlihan.com/portofolio/](www.azharlihan.com/portofolio/)
+- 👨‍💻 All of my projects are available at [www.azharlihan.com/portofolio/](https://www.azharlihan.com/portofolio/)
 
-- 📝 I regularly write articles on [www.azharlihan.com/](www.azharlihan.com/)
+- 📝 I regularly write articles on [www.azharlihan.com/](https://www.azharlihan.com/)
 
 - 💬 Ask me about **PHP, Codeigniter, MySQL**
 
