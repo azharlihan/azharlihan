@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **PHP, Codeigniter, MySQL**
 
-- 📫 How to reach me **m@azharlihan.com**
+- 📫 How to reach me **m@azharlihan.com** / **azharlihan@ummi.ac.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
