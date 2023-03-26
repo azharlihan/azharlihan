@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [www.azharlihan.com/](https://www.azharlihan.com/)
 
-- 💬 Ask me about **PHP, Codeigniter, MySQL**
+- 💬 Ask me about **PHP, Codeigniter, Laravel, MySQL**
 
 - 📫 How to reach me **m@azharlihan.com**
 
