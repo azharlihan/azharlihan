@@ -20,9 +20,29 @@
 
 <p align="center">
   <a href="https://github.com/azharlihan">
-    <img align="center" height="200" src="https://github-readme-stats.azharlihan.com/api?username=azharlihan&show_icons=true&locale=en&show=prs_merged,reviews&hide=stars&theme=transparent" />
+    <picture height="200">
+      <source
+        srcset="https://github-readme-stats.azharlihan.com/api?username=azharlihan&show_icons=true&show=prs_merged&hide=stars&theme=catppuccin_mocha"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.azharlihan.com/api?username=azharlihan&show_icons=true&show=prs_merged&hide=stars&theme=catppuccin_latte"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200" src="https://github-readme-stats.azharlihan.com/api?username=azharlihan&show_icons=true&show=prs_merged&hide=stars&theme=catppuccin_latte" />
+    </picture>
   </a>
   <a href="https://github.com/azharlihan">
-    <img align="center" height="200" src="https://github-readme-stats.azharlihan.com/api/top-langs?username=azharlihan&show_icons=true&locale=en&layout=donut&theme=transparent" />
+    <picture height="200">
+      <source
+        srcset="https://github-readme-stats.azharlihan.com/api/top-langs?username=azharlihan&show_icons=true&locale=en&layout=donut&theme=catppuccin_mocha"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+          srcset="https://github-readme-stats.azharlihan.com/api/top-langs?username=azharlihan&show_icons=true&locale=en&layout=donut&theme=catppuccin_latte"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200" src="https://github-readme-stats.azharlihan.com/api/top-langs?username=azharlihan&show_icons=true&locale=en&layout=donut&theme=catppuccin_latte" />
+    </picture>
   </a>
 </p>
