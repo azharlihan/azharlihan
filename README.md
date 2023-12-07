@@ -26,10 +26,10 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.azharlihan.com/api?username=azharlihan&show_icons=true&show=prs_merged&hide=stars&theme=catppuccin_latte"
+        srcset="https://github-readme-stats.azharlihan.com/api?username=azharlihan&show_icons=true&show=prs_merged&hide=stars&theme=vue"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height="200" src="https://github-readme-stats.azharlihan.com/api?username=azharlihan&show_icons=true&show=prs_merged&hide=stars&theme=catppuccin_latte" />
+      <img height="200" src="https://github-readme-stats.azharlihan.com/api?username=azharlihan&show_icons=true&show=prs_merged&hide=stars&theme=vue" />
     </picture>
   </a>
   <a href="https://github.com/azharlihan">
@@ -39,10 +39,10 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-          srcset="https://github-readme-stats.azharlihan.com/api/top-langs?username=azharlihan&show_icons=true&locale=en&layout=donut&theme=catppuccin_latte"
+          srcset="https://github-readme-stats.azharlihan.com/api/top-langs?username=azharlihan&show_icons=true&locale=en&layout=donut&theme=vue"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height="200" src="https://github-readme-stats.azharlihan.com/api/top-langs?username=azharlihan&show_icons=true&locale=en&layout=donut&theme=catppuccin_latte" />
+      <img height="200" src="https://github-readme-stats.azharlihan.com/api/top-langs?username=azharlihan&show_icons=true&locale=en&layout=donut&theme=vue" />
     </picture>
   </a>
 </p>
